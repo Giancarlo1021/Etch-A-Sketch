@@ -1,0 +1,14 @@
+.box {
+  background: #9E9E9E;
+  border: black 1px solid;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
