@@ -41,7 +41,7 @@ resizeBtn.addEventListener('click', () => {
     let cellNum = parseInt(cellQuestion, 10);
     grid(cellNum)
     setColors();
- setRow();
+    setRow();
 });
 
 let setColors = () => {
